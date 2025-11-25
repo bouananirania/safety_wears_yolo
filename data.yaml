@@ -1,0 +1,8 @@
+path: "D:/programation/python/chiali tubes/dataset_limited2"
+train: "D:/programation/python/chiali tubes/dataset_limited2/train/images"
+val: "D:/programation/python/chiali tubes/dataset_limited2/valid/images"
+test: "D:/programation/python/chiali tubes/dataset_limited2/test/images"
+
+nc: 15
+names: ['Ear Protection', 'Glasses', 'Gloves', 'Helmet', 'Mask', 'Person', 'Safety Shoes', 'Vest', 'Without Ear Protection', 'Without Glasses', 'Without Glove', 'Without Helmet', 'Without Mask', 'Without Safety Shoes', 'Without Vest']
+
